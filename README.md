@@ -14,6 +14,7 @@ Results :
     The output of test_logreg1 file is like this.
 <img width="711" height="516" alt="Ekran görüntüsü 2025-10-26 164549" src="https://github.com/user-attachments/assets/9b5e99fb-736a-4ebd-986b-c29e4df8a846" />
 
+
 Notes : 
 
     A detailed explanation of the codes is available next to each line.
